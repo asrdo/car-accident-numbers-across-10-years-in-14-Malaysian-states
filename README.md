@@ -14,7 +14,7 @@ Program executable file attached.
 
 "input.exe" file ***must*** exist at the **same** directory as the executable
 
-*Feel free to edit all the values to your liking, the program should respond to any kind of changes in data*
+*Feel free to edit any values in the input file to your liking, the program should respond to any kind of changes in data*
 
 *any modifications to the filename **must** be reflected in the source code, otherwise it will result in program **failure***
 
