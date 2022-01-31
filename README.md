@@ -9,7 +9,7 @@ The operations are:
 3. Calculates the **average** number of accidents for the 10 years in each state
 4. Locates the **biggest number** in the data set along with its **year and state of incidence**
 
-
+    
 Program executable file attached.
 
 "input.exe" file ***must*** exist at the **same** directory as the executable
