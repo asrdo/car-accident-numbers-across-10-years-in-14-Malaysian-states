@@ -55,7 +55,7 @@ float cal_Avg(int arrayAcc[], int size)//put array here
 	return avg;
 }
 
-//to display lines using 98 characters of ‘-’ in the output file using a loop
+//to display lines using 98 characters of â€˜-â€™ in the output file using a loop
 void displayLine()
 {
 	*out << endl;
