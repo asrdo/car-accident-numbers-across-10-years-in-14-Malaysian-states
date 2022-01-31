@@ -10,4 +10,12 @@ The operations are:
 4. Locates the biggest number in the data set along with its year and state of incidence
 
 
-© All rights reserved
+Program executable file attached.
+
+"input.exe" file must exist at the same directory as the executable
+
+*Feel free to edit all the values to your liking, the program should respond to any kind of changes in data*
+
+*any modifications to the filename must be reflected in the source code, otherwise it will result in program failure*
+
+© All rights reserved - Abdulkader Sardini
